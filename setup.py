@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 
 setup(
-    name='five',
+    name='five-vcs',
     author='Pt',
     author_email='kvantorium73.int@gmail.com',
     version='0.1',
