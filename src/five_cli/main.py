@@ -374,8 +374,6 @@ Available VCS commands:
         - Add files to existing VCS
     five vcs get <dir> <file> <out> <ver> 
         - Extract file version
-    five vcs help                    
-        - Show this help message
     
 VCS Structure:
     Creates <dir>.vcs/ folder containing 
